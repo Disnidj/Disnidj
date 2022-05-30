@@ -1,5 +1,5 @@
-### Hi, Welcome to my Profile 👋
-
+### Hi,Im Disni & Welcome to my Profile 👋
+ (Software Engineer Undergraduate- SLIIT )
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Disnidj&column=-1)
 
