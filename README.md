@@ -3,6 +3,8 @@
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-C,-B)
+
 
 - 🔭 I’m currently working on ...University Projects
 - 🌱 I’m currently learning ...React.js
