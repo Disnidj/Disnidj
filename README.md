@@ -2,9 +2,6 @@
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Disnidj&column=-1)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Disnidj)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 
 
