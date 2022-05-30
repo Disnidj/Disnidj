@@ -1,7 +1,7 @@
 ### Hi, Welcome to my Profile 👋
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1)
+![trophy](https://github-profile-trophy.vercel.app/Disnidj=ryo-ma&column=-1)
 
 
 
