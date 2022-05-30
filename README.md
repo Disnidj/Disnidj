@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)
 
 - 🔭 I’m currently working on ...University Projects
 - 🌱 I’m currently learning ...React.js
