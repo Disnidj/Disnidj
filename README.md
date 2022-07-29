@@ -76,7 +76,7 @@
     rel="noreferrer"> 
     </td>
      <td>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="html" width="40"
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="html" width="40"
       height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"
     rel="noreferrer"> 
     </td>
