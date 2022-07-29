@@ -128,8 +128,11 @@
 </td>
 </tr>
 <tr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disnidj&" alt="disnidj" /></p>
-</tr>
+   <td>
+
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disnidj&" alt="disnidj" /></p>
+</td>
+   </tr>
 </table>
 
 
