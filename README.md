@@ -76,9 +76,7 @@
     rel="noreferrer"> 
     </td>
      <td>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="html" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"
-    rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
     </td>
       <td>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
