@@ -1,6 +1,10 @@
 ### Hi! Welcome to my Profile 👋
    # Im Disni 
    ###  (Software Engineer Undergraduate- SLIIT )
+   
+   <p>I am well disciplined, self-motivated, self-confident, responsible, and energetic in any situation where I have to undertake a task. I have eager to learn new things and I want to improve my skills day by day and increase the scope of my knowledge. I see the challenges as a chance to discover my knowledge of things. I have been a leader of group projects, so I am capable of working individually and with a team. 
+I truly enjoy the works that do as a task.
+</p>
 
   <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=disnidj&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
